@@ -1,8 +1,7 @@
 {
   "licenses": [
-    {
-      "token": "8956754355:AAHzpDlfjpW5lBpj7mn5pBEHAeEFPydDvjI,8837243633:AAFAkoHJm90-9GpVnKYXj9cW9RE-iDF6ySA",
-      "status": "active"
-    }
+    { "token": "8837243633:AAFAkoHJm90-9GpVnKYXj9cW9RE-iDF6ySA", "status": "active" },
+    { "token": "8956754355:AAHzpDlfjpW5lBpj7mn5pBEHAeEFPydDvjI", "status": "active" },
+    { "token": "TOKEN_003", "status": "active" }
   ]
 }
